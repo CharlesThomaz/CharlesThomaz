@@ -14,7 +14,8 @@ Objetivos
 🚀 Estou constantemente buscando aprender novas tecnologias e melhorar minhas habilidades de desenvolvimento. Meu objetivo é contribuir para projetos desafiadores que tenham impacto real e positivo na vida das pessoas.
 
 Contato
-📧 Email: charlesthomazde@gmail.com
+📧 Email: charlesthomazdr@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/charles-thomaz-a18134305/
+😎 Instgram:https://www.instagram.com/charlesthomazz/
 
 Vamos nos conectar e compartilhar conhecimentos!

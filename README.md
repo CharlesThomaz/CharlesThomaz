@@ -15,7 +15,7 @@ Objetivos
 
 Contato
 📧 Email: charlesthomazdr@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/charles-thomaz-a18134305/
+🔗 LinkedIn: https://www.linkedin.com/in/charles-thomaz-2b667225b/
 😎 Instgram:https://www.instagram.com/charlesthomazz/
 
 Vamos nos conectar e compartilhar conhecimentos!

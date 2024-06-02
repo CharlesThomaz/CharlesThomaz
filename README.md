@@ -7,7 +7,7 @@ Minhas Habilidades
 💻 Linguagens de Programação: Java, Python, JavaScript
 🌐 Desenvolvimento Web: HTML, CSS, React
 🗄️ Banco de Dados: SQL, Oracle
-🛠️ Ferramentas e Tecnologias: Git, Docker, RESTful APIs
+🛠️ Ferramentas e Tecnologias: Git, Docker, RESTful APIs, Flask
 📈 Metodologias: Agile, Scrum
 
 Objetivos

@@ -1,17 +1,31 @@
-Charles Thomaz
-Estudante de Análise e Desenvolvimento de Sistemas
-Sobre mim
-👋 Olá! Eu sou Charles Thomaz, um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, onde estou adquirindo conhecimentos sólidos em diversas áreas da tecnologia da informação, desde a programação até a análise de sistemas.
+Sobre Mim
 
-Minhas Habilidades
-💻 Linguagens de Programação: Java, Python, JavaScript
-🌐 Desenvolvimento Web: HTML, CSS, React
-🗄️ Banco de Dados: SQL, Oracle
-🛠️ Ferramentas e Tecnologias: Git, Docker, RESTful APIs, Flask
-📈 Metodologias: Agile, Scrum
+Sou um desenvolvedor apaixonado por tecnologias que buscam soluções eficientes e escaláveis. Tenho experiência no desenvolvimento de projetos do início ao fim, desde a construção de front-end até a implementação de back-end e integração com bancos de dados, além de uma forte compreensão de processos de CI/CD e infraestrutura em nuvem.
 
-Objetivos
-🚀 Estou constantemente buscando aprender novas tecnologias e melhorar minhas habilidades de desenvolvimento. Meu objetivo é contribuir para projetos desafiadores que tenham impacto real e positivo na vida das pessoas.
+Habilidades Técnicas:
+
+Linguagens de Programação: Java, Python, JavaScript
+
+Banco de Dados: MySQL (favorito), Oracle
+
+Versionamento e CI/CD: Git, integração contínua e deploy no Firebase
+
+Infraestrutura como Código: Terraform (criação de resources na AWS)
+
+Metodologias Ágeis: Kanban, Scrum, e práticas de desenvolvimento ágil
+
+Precificação de Software: Utilizo o método AFP para determinar o valor de software
+
+Gestão de Projetos: Levantamento de requisitos e desenvolvimento com foco nas necessidades reais dos clientes
+
+Experiência:
+
+Tenho experiência prática na estruturação de projetos em diversas camadas: desde o front-end simples, utilizando tecnologias modernas, até o back-end robusto com integração de banco de dados e infraestrutura em AWS. Além disso, sou capaz de realizar o versionamento de código e configurar pipelines de CI/CD para facilitar o deploy contínuo e garantir a qualidade do software.
+
+Me especializo em MySQL, mas também tenho conhecimento em Oracle, oferecendo soluções para diferentes contextos. Tenho habilidades em levantamento de requisitos, criando produtos e funcionalidades alinhados às necessidades reais do usuário final. A utilização do método Kanban e abordagens ágil me permite entregar resultados rápidos e de alta qualidade.
+
+Projetos no GitHub:
+
 
 Contato
 📧 Email: charlesthomazdr@gmail.com
